@@ -1,0 +1,9 @@
+   Current data set:
+   NAME =	416 Ryan Carl (Exp 10) Figure 1	EXPNO =	1	PROCNO = 1
+   DU   =	C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB
+
+   Number   Integrated Region     Integral
+     1      6.742      6.655         1.00000
+     2      4.794      4.665         2.05181
+     3      2.696      2.168         5.17667
+     4      1.774      1.640         6.15255

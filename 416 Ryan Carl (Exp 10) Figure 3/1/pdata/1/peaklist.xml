@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2024-09-17T15:04:07">
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:04:07" expNo="1" name="416 Ryan Carl (Exp 10) Figure 3" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=6.846ppm, F2=6.633ppm, MI=1.55cm, MAXI=2.46cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="6.7075" intensity="1.57" type="0"/>
+    <Peak1D F1="6.7044" intensity="1.62" type="0"/>
+    <Peak1D F1="6.6928" intensity="1.64" type="0"/>
+    <Peak1D F1="6.6899" intensity="1.58" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:04:07" expNo="1" name="416 Ryan Carl (Exp 10) Figure 3" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=4.853ppm, F2=4.782ppm, MI=3.72cm, MAXI=3.99cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:04:07" expNo="1" name="416 Ryan Carl (Exp 10) Figure 3" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=4.782ppm, F2=4.597ppm, MI=4.33cm, MAXI=4.72cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.6971" intensity="4.42" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:04:07" expNo="1" name="416 Ryan Carl (Exp 10) Figure 3" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=2.633ppm, F2=2.434ppm, MI=1.48cm, MAXI=1.89cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.4993" intensity="1.60" type="0"/>
+    <Peak1D F1="2.4965" intensity="1.67" type="0"/>
+    <Peak1D F1="2.4900" intensity="1.48" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:04:07" expNo="1" name="416 Ryan Carl (Exp 10) Figure 3" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=2.434ppm, F2=2.178ppm, MI=1.89cm, MAXI=2.54cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.3231" intensity="2.32" type="0"/>
+    <Peak1D F1="2.2897" intensity="1.96" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:04:07" expNo="1" name="416 Ryan Carl (Exp 10) Figure 3" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=1.808ppm, F2=1.551ppm, MI=14.84cm, MAXI=15.09cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.6935" intensity="15.00" type="0"/>
+  </PeakList1D>
+</PeakList>
