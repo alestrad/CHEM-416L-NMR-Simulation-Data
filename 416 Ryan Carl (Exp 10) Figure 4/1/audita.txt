@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ C:\CSUSM\Data\CHEM416\416L Tuesday Lab 4AB/416 Ryan Carl (Exp 10) Figure 4/1/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-10 14:59:27.488 -0700>,<nmr>,<B10040045>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2024-09-10 14:59:20.325 -0700,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       B4 E8 05 2D AA 40 BC 93 FC AD 4E 9D E2 E6 FA 3C
+       data hash MD5: 16000
+       E7 55 CA 32 B8 10 2C 1D AB A4 0C BC 1D 65 62 39>)
+##END=
+
+$$ hash MD5
+$$ 0D E3 98 AB A8 E2 60 20 2C 06 CB 46 FE 4C A4 62

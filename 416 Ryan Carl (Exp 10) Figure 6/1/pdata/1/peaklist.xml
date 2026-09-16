@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2024-09-17T15:16:36">
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:16:36" expNo="1" name="416 Ryan Carl (Exp 10) Figure 6" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=6.690ppm, F2=6.576ppm, MI=0.23cm, MAXI=0.34cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="6.6572" intensity="0.26" type="0"/>
+    <Peak1D F1="6.6456" intensity="0.25" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:16:36" expNo="1" name="416 Ryan Carl (Exp 10) Figure 6" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=4.754ppm, F2=4.612ppm, MI=0.56cm, MAXI=0.64cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.7059" intensity="0.61" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:16:36" expNo="1" name="416 Ryan Carl (Exp 10) Figure 6" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=2.590ppm, F2=2.391ppm, MI=0.23cm, MAXI=0.32cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.4681" intensity="0.28" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:16:36" expNo="1" name="416 Ryan Carl (Exp 10) Figure 6" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=2.391ppm, F2=2.163ppm, MI=0.32cm, MAXI=0.49cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.2836" intensity="0.36" type="0"/>
+    <Peak1D F1="2.2500" intensity="0.37" type="0"/>
+    <Peak1D F1="2.2105" intensity="0.33" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-09-17T15:16:36" expNo="1" name="416 Ryan Carl (Exp 10) Figure 6" owner="" procNo="1" source="C:/CSUSM/Data/CHEM416/416L Tuesday Lab 4AB">
+      <PeakPickDetails>F1=1.765ppm, F2=1.566ppm, MI=2.28cm, MAXI=2.50cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.6510" intensity="2.36" type="0"/>
+  </PeakList1D>
+</PeakList>
