@@ -1,0 +1,31 @@
+
+Current Data Parameters
+NAME     416 Ryan Carl (Exp 10) Figure 9              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240910              
+Time              15.18              
+SOLVENT           CDCl3              
+NS                    8              
+SWH            8223.685 Hz           
+TE                298.6 K            
+D1           1.00000000 sec          
+NS                    8              
+TD0                   1              
+
+======== CHANNEL f1 ========
+NUC1                 1H              
+P1                15.00 usec         
+PLW1        12.00000000 W            
+SFO1        400.1324710 MHz          
+
+F2 - Processing parameters
+SI                65536              
+SF          400.1300000 MHz          
+WDW                  no              
+SSB      0              
+LB       0 Hz           
+GB       0              
+PC                 1.00              
